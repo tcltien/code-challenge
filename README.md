@@ -28,7 +28,9 @@ The codebase is built with a focus on **Clean Code**, **SOLID principles**, **De
 │       │   ├── utils/             # Winston Logger & System Helpers
 │       │   └── app.ts             # Express Application Bootstrap
 │       └── package.json
+|   |__problem6/
+|       |── README.md              # Leader board system design
 │
-├── .gitignore                     #
+├── .gitignore                     # ignore file
 ├── package.json                   # Root package manager
 └── README.md                      # Global Documentation (This file)
