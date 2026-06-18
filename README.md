@@ -24,7 +24,7 @@ The codebase is built with a focus on **Clean Code**, **SOLID principles**, **De
 │       │   ├── models/            # Domain Entities & Types
 │       │   ├── repository/        # Data Access Layer (Repository Pattern)
 │       │   ├── services/          # Pure Business Logic Layer
-│       │   │   └── __tests__/     # Service & Repository Unit Test Suites (Jest)
+│       │   │   └── __tests__/     # Unit Test Suites (Jest)
 │       │   ├── utils/             # Winston Logger & System Helpers
 │       │   └── app.ts             # Express Application Bootstrap
 │       └── package.json
