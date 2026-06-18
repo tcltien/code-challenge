@@ -29,6 +29,6 @@ The codebase is built with a focus on **Clean Code**, **SOLID principles**, **De
 │       │   └── app.ts             # Express Application Bootstrap
 │       └── package.json
 │
-├── .gitignore                     # Rigorous cache, log, node_modules, and database exclusion
+├── .gitignore                     #
 ├── package.json                   # Root package manager
 └── README.md                      # Global Documentation (This file)
