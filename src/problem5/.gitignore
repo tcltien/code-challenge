@@ -1,1 +1,27 @@
+# Dependencies
 node_modules/
+
+# Production build
+dist/
+build/
+
+# Database files (SQLite)
+*.db
+*.db-journal
+*.sqlite
+
+# Environment variables (chứa thông tin bảo mật)
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# OS IDE templates
+.DS_Store
+.vscode/
+.idea/
